@@ -1,9 +1,21 @@
-langchian==0.3.26
+langchain==0.3.26
 flask==3.1.1
-sentance-transformers==4.1.0
 pypdf==5.6.1
 python-dotenv==1.1.0
 langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.3.26
+
+# CHANGED: Bumped to 0.3.8 to satisfy LangChain 0.3.26
+langchain-text-splitters==0.3.8
+
+# CHANGED: Use 3.3.1 (4.1.0 does not exist and causes errors)
+sentence-transformers==3.3.1
+
+# Keep these as they are
+langchain-huggingface==0.1.2
+huggingface-hub==0.26.2
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
 -e .
