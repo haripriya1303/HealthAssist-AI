@@ -19,7 +19,7 @@
 ## 📽️ Demo
 
 
-[![Demo Video](https://drive.google.com/file/d/1Wem9Z9uCFXOvjGCCLQazsQ55EIu31ccD/view?usp=drivesdk)]
+[![Demo Video]](https://drive.google.com/file/d/1Wem9Z9uCFXOvjGCCLQazsQ55EIu31ccD/view?usp=drivesdk)
 ---
 
 ## 📸 Screenshots
